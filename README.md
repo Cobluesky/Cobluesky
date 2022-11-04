@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Bluesky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cobluesky&show_icons=true&theme=radical)
-<img src="https://img.shields.io/badge/#4479A1?style=flat-square&logo=simpleiconsMySQL&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/#4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a
