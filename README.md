@@ -1,5 +1,5 @@
 
-https://github-readme-stats.vercel.app/api?username=haneulshin&show_icons=true&theme=radical
+![Stats](https://github-readme-stats.vercel.app/api?username=haneulshin&show_icons=true&theme=radical)
 <h2>Tech Stacks</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
