@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h2>About Me</h2>
 <p align="center">
-  <a href="https://velog.io/@woo0_hooo"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-\square&logo=Vimeo&logoColor=white&link=https://velog.io/@gimlet"/></a>&nbsp
+  <a href="https://velog.io/@gimlet"><img src="https://img.shields.io/badge/Blog-11B48A?style=flat-\square&logo=Vimeo&logoColor=white&link=https://velog.io/@gimlet"/></a>&nbsp
   <a href="mailto:habuhamo900@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=habuhamo900@gmail.com"/></a>
 </p>
 <br>
