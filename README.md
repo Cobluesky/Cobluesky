@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=cyan&height=300&section=header&text=Hello!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=90" />
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=haneulshin&show_icons=true&theme=radical)
