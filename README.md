@@ -2,7 +2,7 @@
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=haneulshin&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cobluesky)](https://github.com/Cobluesky/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cobluesky&compact)](https://github.com/Cobluesky/github-readme-stats)
 
 <h2>Tech Stacks</h2>
 <p align="center">
